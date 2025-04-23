@@ -13,6 +13,6 @@ The layout adjusts to different screen sizes, ensuring a seamless experience acr
 
 ## Visit the Webpage
 
-To view the live version of the webpage, [click here]().
+To view the live version of the webpage, [click here](https://article-component-prevue.netlify.app/).
 
 ![Article Preview Component](./Article%20Preview%20Component.jpg)
